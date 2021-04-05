@@ -1,7 +1,7 @@
 # Flow State
 Flow state is an app designed for those who love watersports and need an easy, real time display of the waterlevels in the UK . Flow state now allows you to save your most frequently visited locations so that you can quickly gauge the waterlevels instead of searching for them on the map.
 
-This repository contains Legacy project for original app: https://github.com/joedavies25/FlowState
+This repository contains Legacy project for original app: https://github.com/joedavies25/FlowState. Refactored back end and front end to use TypeScript, implemented testing.
 
 ## Video
 here's a short [demo](https://www.youtube.com/watch?v=oXYnGpOsYNw)!
